@@ -1,7 +1,7 @@
 # WhisperFlow v7.3
 **Author:** Paulo Estimado  
 **License:** MIT  
-**Language:** PowerShell + Python 3.12  
+**Language:** PowerShell + Python 3.13  
 **Platform:** Windows 10/11  
 
 WhisperFlow is a voice dictation assistant optimized with OpenAI’s Whisper model.  
@@ -23,3 +23,4 @@ It automatically transcribes your voice into text in any active field, using CUD
 
 ## ✨ Credits
 Developed by **Paulo Estimado** — October 2025.
+
